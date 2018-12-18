@@ -1,0 +1,91 @@
+
+.mySkills
+{
+  padding-top:20px ;
+    padding-bottom: 20px;
+    width: 100%;
+}
+.skill{
+    margin-bottom: 70px;
+}
+.mySkills h2
+{
+   text-transform:uppercase;
+    color: #444444;
+    font-size: 30px;
+    font-family: Poppins, Helvetica, arial, sans-serif;
+    font-weight: bolder;
+
+    
+}
+
+.mySkills p{
+    color: #777777;
+    font-size: 16px;
+    line-height: 25.6px;
+    font-family: Poppins, Helvetica, arial, sans-serif;
+    margin-bottom: 0;
+
+}
+.mySkills .detail {
+    margin-top: 24px;
+}
+.mySkills .detail .caption{
+    overflow: auto;
+    width: 100%;
+}
+.mySkills .detail .caption .left{
+    float: left;
+
+}
+.mySkills .detail .caption .right{
+    float: right;
+   
+}
+
+.mySkills .detail p{
+    font-size: 14px;
+    font-weight: 500;
+}
+.mySkills .line
+{
+    background-color:#f5f5f5;
+    width: 100%;
+    height: 12px;
+    border-radius:4px;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    
+
+}
+.mySkills .rate1,.rate2,.rate3,.rate4
+{
+    background-color: #ec3237;
+         border-radius:4px 0px 0px 4px;
+    height: 12px;
+}
+.mySkills .rate1
+{
+    width:79%;
+}
+.mySkills .rate2
+{
+    width:90%;
+}
+.mySkills .rate3
+{
+    width:96%;
+}
+.mySkills .rate4
+{
+    width:70%;
+}
+.mySkills .button_skills
+{
+    border-radius: 0;
+    padding: 10px 25px;
+}
+#WHATIDO 
+{
+    color: red;
+    
+}
